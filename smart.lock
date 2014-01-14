@@ -10,8 +10,7 @@
       },
       "crypto-md5": {},
       "iron-router": {},
-      "nprogress": {},
-      "fast-render": {}
+      "nprogress": {}
     },
     "packages": {
       "momentjs": {
@@ -43,11 +42,6 @@
         "git": "https://github.com/zhouzhuojie/meteor-nprogress.git",
         "tag": "v0.0.3",
         "commit": "ffd1c5dd400af64121197f4e637a215c4b6b1fc7"
-      },
-      "fast-render": {
-        "git": "https://github.com/arunoda/meteor-fast-render.git",
-        "tag": "v0.1.6",
-        "commit": "d4280ecd4cdb7bbe7d2b6de143071b193ecd74ad"
       }
     }
   }

@@ -10,7 +10,8 @@
       },
       "crypto-md5": {},
       "iron-router": {},
-      "nprogress": {}
+      "nprogress": {},
+      "smart-collections": {}
     },
     "packages": {
       "momentjs": {
@@ -42,6 +43,11 @@
         "git": "https://github.com/zhouzhuojie/meteor-nprogress.git",
         "tag": "v0.0.3",
         "commit": "ffd1c5dd400af64121197f4e637a215c4b6b1fc7"
+      },
+      "smart-collections": {
+        "git": "https://github.com/arunoda/meteor-smart-collections.git",
+        "tag": "v0.4.0",
+        "commit": "da25a5e88c3b5e3c1cb3bd44fd7fdc3234448526"
       }
     }
   }

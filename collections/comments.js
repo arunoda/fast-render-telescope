@@ -1,4 +1,4 @@
-Comments = new Meteor.Collection('comments');
+Comments = new Meteor.SmartCollection('comments');
 
 Comments.deny({
   update: function(userId, post, fieldNames) {
